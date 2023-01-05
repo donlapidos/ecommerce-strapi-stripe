@@ -1,0 +1,4 @@
+
+[submodule "api/ecommerce-store-react--frontend"]
+	path = api/ecommerce-store-react--frontend
+	url = https://github.com/donlapidos/ecommerce-store-react--frontend
