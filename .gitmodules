@@ -2,3 +2,6 @@
 [submodule "api/ecommerce-store-react--frontend"]
 	path = api/ecommerce-store-react--frontend
 	url = https://github.com/donlapidos/ecommerce-store-react--frontend
+[submodule "api/client"]
+	path = api/client
+	url = https://github.com/donlapidos/ecommerce-store-react--frontend
